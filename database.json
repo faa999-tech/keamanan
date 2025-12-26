@@ -1,6 +1,4 @@
 {
-  "status": "on",
-  "password": "ralzzganteng13",
   "tokens": [
     "8292296245:AAFJL512du-ym9O6AjJKCxaJnE2pQSAx77Q",
     "7847541460:AAE33RRGglINpk2DTon1iX7-oskUSSwbtuk",
@@ -11,6 +9,7 @@
     "8502000264:AAH0qVVDPZzczJ71d71bsmKyiLcxMdu20UQ",
     "8303810584:AAHv8s6coSNWcs7Za5884JT9DLQpvJwkzUg",
     "8292296245:AAFJL512du-ym9O6AjJKCxaJnE2pQSx77Q",
-    "8535509140:AAGilNkFBkbMbfJraGXeAZuzpdxjHEpg8Nk"
+    "8535509140:AAGilNkFBkbMbfJraGXeAZuzpdxjHEpg8Nk",
+    "8502000264:AAHHl7T9foMF95wD2HE5btDwcaxFxMMd0OM"
   ]
 }
